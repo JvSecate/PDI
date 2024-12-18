@@ -1,2 +1,0 @@
-# PDI
-Processamento de imagens
